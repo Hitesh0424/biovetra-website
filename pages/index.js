@@ -7,8 +7,8 @@ export default function Home() {
     return (
         <>
             <Head>
-                <title>Website CMS - Home</title>
-                <meta name="description" content="Modern website with admin panel CMS" />
+                <title>BIOVETRA - Pharmaceutical Excellence</title>
+                <meta name="description" content="BIOVETRA Pharmaceuticals - Your trusted partner in healthcare. Quality medicines and healthcare solutions." />
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>

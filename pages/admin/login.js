@@ -38,12 +38,12 @@ export default function AdminLogin() {
     return (
         <>
             <Head>
-                <title>Admin Login - CMS</title>
+                <title>BIOVETRA - Admin Login</title>
                 <meta name="robots" content="noindex, nofollow" />
             </Head>
             <div className={styles.adminContainer}>
                 <div className={styles.loginBox}>
-                    <h1 className={styles.loginTitle}>Admin Login</h1>
+                    <h1 className={styles.loginTitle}>BIOVETRA Admin Portal</h1>
                     {error && <div className={styles.errorMessage}>{error}</div>}
                     <form onSubmit={handleSubmit}>
                         <div className={styles.formGroup}>

@@ -29,12 +29,12 @@ export default function Dashboard() {
     return (
         <>
             <Head>
-                <title>Admin Dashboard - CMS</title>
+                <title>BIOVETRA - Admin Dashboard</title>
                 <meta name="robots" content="noindex, nofollow" />
             </Head>
             <div className={styles.dashboard}>
                 <header className={styles.dashboardHeader}>
-                    <h1 className={styles.dashboardTitle}>Admin Dashboard</h1>
+                    <h1 className={styles.dashboardTitle}>BIOVETRA Admin Dashboard</h1>
                     <button className={styles.btnLogout} onClick={() => signOut({ callbackUrl: '/admin/login' })}>
                         Logout
                     </button>

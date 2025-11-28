@@ -1,6 +1,6 @@
-# Website CMS with Next.js & MongoDB
+# BIOVETRA - Pharmaceutical Website CMS
 
-A modern, full-featured Content Management System built with Next.js and MongoDB. Manage your website content from anywhere with a secure admin panel.
+A modern, full-featured Content Management System built with Next.js and MongoDB for BIOVETRA Pharmaceuticals. Manage pharmaceutical products and website content from anywhere with a secure admin panel.
 
 ## Features
 
